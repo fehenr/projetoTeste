@@ -1,0 +1,11 @@
+C:\Users\bebad\OneDrive\Área de Trabalho\WorkSpace\SenaiProjetoTeste\SenaiProjetoTeste\bin\Debug\net6.0\SenaiProjetoTeste.deps.json
+C:\Users\bebad\OneDrive\Área de Trabalho\WorkSpace\SenaiProjetoTeste\SenaiProjetoTeste\bin\Debug\net6.0\SenaiProjetoTeste.dll
+C:\Users\bebad\OneDrive\Área de Trabalho\WorkSpace\SenaiProjetoTeste\SenaiProjetoTeste\bin\Debug\net6.0\ref\SenaiProjetoTeste.dll
+C:\Users\bebad\OneDrive\Área de Trabalho\WorkSpace\SenaiProjetoTeste\SenaiProjetoTeste\bin\Debug\net6.0\SenaiProjetoTeste.pdb
+C:\Users\bebad\OneDrive\Área de Trabalho\WorkSpace\SenaiProjetoTeste\SenaiProjetoTeste\obj\Debug\net6.0\SenaiProjetoTeste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bebad\OneDrive\Área de Trabalho\WorkSpace\SenaiProjetoTeste\SenaiProjetoTeste\obj\Debug\net6.0\SenaiProjetoTeste.AssemblyInfoInputs.cache
+C:\Users\bebad\OneDrive\Área de Trabalho\WorkSpace\SenaiProjetoTeste\SenaiProjetoTeste\obj\Debug\net6.0\SenaiProjetoTeste.AssemblyInfo.cs
+C:\Users\bebad\OneDrive\Área de Trabalho\WorkSpace\SenaiProjetoTeste\SenaiProjetoTeste\obj\Debug\net6.0\SenaiProjetoTeste.csproj.CoreCompileInputs.cache
+C:\Users\bebad\OneDrive\Área de Trabalho\WorkSpace\SenaiProjetoTeste\SenaiProjetoTeste\obj\Debug\net6.0\SenaiProjetoTeste.dll
+C:\Users\bebad\OneDrive\Área de Trabalho\WorkSpace\SenaiProjetoTeste\SenaiProjetoTeste\obj\Debug\net6.0\ref\SenaiProjetoTeste.dll
+C:\Users\bebad\OneDrive\Área de Trabalho\WorkSpace\SenaiProjetoTeste\SenaiProjetoTeste\obj\Debug\net6.0\SenaiProjetoTeste.pdb
